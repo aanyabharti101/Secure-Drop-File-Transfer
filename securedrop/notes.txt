@@ -1,0 +1,3 @@
+Feel free to create your own file or use testscreenshot.png/secret.txt for testing send process.
+
+They all work but use whatever you desire for demo.
