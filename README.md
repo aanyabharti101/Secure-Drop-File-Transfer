@@ -84,6 +84,13 @@ main.py         Application entry point
 - Python 3
 - Local network access
 
+## Getting Started
+
+```bash
+git clone https://github.com/aanyabharti101/Secure-Drop-File-Transfer.git
+cd Secure-Drop-File-Transfer
+```
+
 ### Run
 
 ```bash
